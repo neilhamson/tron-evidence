@@ -42,7 +42,22 @@ Proposal identifier:
 
 `d9a0881c-50d7-4525-882b-e4ced057b33e`
 
-Further technical evidence for this cycle will be recorded in this repository.
+## Evidence index
+
+### Controlled development cycle
+
+- [Development-cycle record](records/2026-09-20-controlled-development-cycle.md)
+- [Historical MI1-controlled commit evidence](evidence/2026-09-20-mi1-controlled-commit.txt)
+- [Commit evidence SHA-256](evidence/2026-09-20-mi1-controlled-commit.sha256)
+
+### Verification and controls
+
+- [Verified 78-test run](records/2026-09-20-test-run.md)
+- [Sanitized complete test output](evidence/2026-09-20-mi1-test-run.txt)
+- [Test-output SHA-256](evidence/2026-09-20-mi1-test-run.sha256)
+- [Repository capability profile](evidence/hamson-tech-repository-profile.json)
+- [Capability-profile SHA-256](evidence/hamson-tech-repository-profile.sha256)
+- [Authority boundary](architecture/authority-boundary.md)
 
 ## Repository structure
 
@@ -75,3 +90,4 @@ BSc (Hons) Computing
 PhD Computer Science
 
 https://hamson.tech
+
