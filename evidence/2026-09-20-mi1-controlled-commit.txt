@@ -1,0 +1,44 @@
+commit 1a7170e1d1d2c63ffb0315c256e7b01e4268ed78
+Author:     Neil Hamson <neil@hamson.tech>
+AuthorDate: Sun Sep 20 10:10:59 2026 +0100
+Commit:     Neil Hamson <neil@hamson.tech>
+CommitDate: Sun Sep 20 10:10:59 2026 +0100
+
+    MI1: Clarify MI1 intro copy
+---
+ components/MachineIntelligenceExperience.tsx | 8 ++++----
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+
+diff --git a/components/MachineIntelligenceExperience.tsx b/components/MachineIntelligenceExperience.tsx
+index 5eca3e4..e1d6cb0 100644
+--- a/components/MachineIntelligenceExperience.tsx
++++ b/components/MachineIntelligenceExperience.tsx
+@@ -148,7 +148,7 @@ export default function MachineIntelligenceExperience() {
+     <div className="machine-intelligence-experience">
+       <div className="machine-intelligence-experience-heading">
+         <div>
+-          <p className="eyebrow">PRIVATE MACHINE INTELLIGENCE / ACTIVE DEVELOPMENT</p>
++          <p className="eyebrow">MI1 / PRIVATE MACHINE INTELLIGENCE / ACTIVE DEVELOPMENT</p>
+           <h1>
+             BUILDING
+             <br />
+@@ -158,8 +158,8 @@ export default function MachineIntelligenceExperience() {
+ 
+         <div className="machine-intelligence-experience-intro">
+           <p>
+-            A private software system under active development, combining
+-            persistent project state, external model reasoning, bounded tools,
++            MI1 is a private software system under active development. It currently
++            combines persistent project state, external model reasoning, bounded tools,
+             controlled agency, memory and model infrastructure.
+           </p>
+ 
+@@ -251,7 +251,7 @@ export default function MachineIntelligenceExperience() {
+           <dl>
+             <div>
+               <dt>System</dt>
+-              <dd>Private Machine Intelligence</dd>
++              <dd>MI1</dd>
+             </div>
+             <div>
+               <dt>Current Focus</dt>

@@ -1,0 +1,38 @@
+# credentials and local configuration
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+.npmrc
+
+# private/local working material
+private/
+scratch/
+temp/
+tmp/
+.mi1_backups/
+
+# editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# logs and generated output
+*.log
+coverage/
+dist/
+build/
+node_modules/
+
+# backups and archives
+*.bak
+*.backup
+*.old
+*.zip
+*.7z
+*.tar
+*.tar.gz
+*.tgz
