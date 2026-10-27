@@ -1,12 +1,12 @@
-# MI1 Evidence
+# TRON — Public Engineering Evidence
 
-Public technical evidence for MI1, a private Machine Intelligence system developed by Neil Hamson.
+Public technical evidence for TRON (Technological Reasoning and Operational Network), HamTron's private Artificial Intelligence (AI) engineering system. Earlier records use the historical project name MI1.
 
-MI1 is being developed as a controlled software-engineering system in which model reasoning can inspect projects, prepare bounded changes and participate in validated development workflows while consequential actions remain subject to explicit human authority.
+TRON is being developed as a controlled software-engineering system in which model reasoning can inspect projects, prepare bounded changes and participate in validated development workflows while consequential actions remain subject to explicit human authority.
 
 ## Purpose
 
-This repository exists to publish selected evidence of MI1 development without publishing the private MI1 implementation.
+This repository exists to publish selected evidence of TRON development without publishing the private TRON implementation.
 
 Evidence may include:
 
@@ -20,7 +20,7 @@ Evidence may include:
 
 ## Verified milestone
 
-On 20 September 2026, MI1 completed a controlled development cycle against the hamson.tech software repository.
+On 20 September 2026, the system then named MI1 completed a controlled development cycle against the hamson.tech software repository.
 
 The cycle included:
 
@@ -32,7 +32,7 @@ The cycle included:
 6. production-build validation
 7. controlled local Git commit
 
-MI1 did not have push authority.
+The system did not have push authority.
 
 The resulting hamson.tech commit was:
 
@@ -41,6 +41,12 @@ The resulting hamson.tech commit was:
 Proposal identifier:
 
 `d9a0881c-50d7-4525-882b-e4ced057b33e`
+
+## Current development status
+
+On 27 October 2026, TRON's private development branch passed a 38-test Windows suite covering persistent conversation memory, repository inspection, and controlled proposal, operator approval, validation and rollback in a disposable repository. The live AWS proposal/application cycle remains under review; this README is not an independent public reproduction of those private tests.
+
+CLU (Cognitive Learning Utility) is a separate planned customer-facing AI product. It is not an operational public TRON instance.
 
 ## Evidence index
 
@@ -69,7 +75,7 @@ Proposal identifier:
 
 This repository does not contain:
 
-- MI1 core source code
+- TRON core source code
 - private prompts or internal reasoning instructions
 - API credentials
 - private infrastructure details
@@ -80,7 +86,7 @@ This repository does not contain:
 
 The public source for hamson.tech is available at:
 
-`https://github.com/neilhamson/hamson-tech`
+`https://github.com/neilhamson/hamtron.tech`
 
 ## Author
 
@@ -89,5 +95,5 @@ Neil Hamson
 BSc (Hons) Computing  
 PhD Computer Science
 
-https://hamson.tech
+https://hamtron.tech
 
